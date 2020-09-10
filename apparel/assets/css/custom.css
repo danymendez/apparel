@@ -619,7 +619,7 @@ a,.dropdown i,
         float: left;
         width: 100%;
         clear: both;
-        background-color: #000000;
+        background-color: #555555;
     }
     #header .menu{
         padding: 0;
@@ -658,7 +658,7 @@ a,.dropdown i,
     }
     #header .top-menu a[data-depth="0"]:hover{
         color: #ffffff;
-        background-color: #ed5190;
+        background-color: #FFBCAD;
     }
     #header .menu .top-menu[data-depth="1"]{
         display: block;
